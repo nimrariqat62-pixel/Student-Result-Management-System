@@ -1,0 +1,33 @@
+
+
+# include <iostream>
+# include <fstream>
+# include <string>
+using namespace std;
+int main(){
+	
+	fstream file("student.txt" , ios :: in | ios :: out);
+	string name;
+	int age;
+	float marks;
+	
+	cout << " enter name : ";
+	cin >> name;
+	cout << " enter age : ";
+	cin >> age;
+	cout << " enter marks : ";
+	cin >> marks;
+	
+	string line;
+	
+	file.seekg(0, ios::beg);
+	
+	while (getline(file,line)){
+		cout << line << endl;
+	}
+		
+		file.close();
+	
+	
+	return 0;
+}
