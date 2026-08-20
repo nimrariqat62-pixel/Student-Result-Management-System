@@ -1,0 +1,30 @@
+
+
+# include <iostream>
+# include <fstream>
+# include <string>
+using namespace std;
+int main(){
+	
+ofstream file(" student.txt");
+	
+	string name;
+	int age;
+	float marks;
+	
+	cout << " enter  name :   ";
+	cin >> name;
+	cout << " enter age :   ";
+	cin >> age;
+	cout << " enter marks : ";
+	
+	cin >> marks;
+	
+	file << " name : " << name << endl;
+	file << " age : " << age << endl;
+	file << " marks : " << marks << endl;
+	
+	file.close();
+	
+	return 0;
+}
