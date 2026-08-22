@@ -1,0 +1,18 @@
+
+
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std;
+int main(){
+	
+	ofstream file("student.txt");
+	
+	file << "hello world";
+	file.seekp(0);
+	cout << file.tellp();
+	
+	file.close();
+	 return 0;
+}
+
