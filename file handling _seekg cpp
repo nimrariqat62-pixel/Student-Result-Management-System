@@ -1,0 +1,21 @@
+
+
+# include <iostream>
+# include <fstream>
+
+using namespace std;
+int main(){
+	
+	fstream file("student.txt" , ios :: in | ios :: out);
+ file << "hello world";
+  file.seekg(6);
+  
+ string tae;
+ while (getline(file,tae)){ cout << tae << endl;
+   
+ }
+file.close();
+ 
+ 
+ return 0;
+}
