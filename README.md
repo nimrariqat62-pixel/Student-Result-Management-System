@@ -1,25 +1,36 @@
-# Student Result Management System
+# Student Result Management System - C++
 
-## Description
-Ye C++ me bana hua Student Result Management System hai. 
-Isme hum students ka Roll No, Name, Marks enter karte hain aur system automatically Grade calculate karke result show karta hai.
+A complete C++ based Student Result Management System developed to manage student academic records. This project demonstrates core programming and Object-Oriented Programming concepts.
 
-## Features
-- Multiple students ka data enter karna
-- Automatic Grade calculation: A, B, C, D, F
-- Result table me display
+### 📖 About The Project
+This system is designed to store and manage student data efficiently. Users can enter student Roll No, Name, and Marks for different subjects. The system automatically calculates total marks, average, grade (A, B, C, D, F), and displays all records in a neat tabular form.
 
-## Technology Used
-- Language: C++
-- Concepts: Struct, Functions, Loops, Arrays
+This project was built during pre-BSCS preparation to practice C++ fundamentals and OOP.
 
-## Author
-**Name:** Nimra Riqat  
-**Course:** BSCS 1st Semester  
-**University:** [Apni Uni ka naam]  
-**Date:** August 2026
+### ✨ Key Features
+- Add multiple students data
+- Automatic calculation of Total, Average, and Grades
+- Grade Logic: A (90+), B (80+), C (70+), D (60+), F (below 60)
+- Display all student results in a formatted table
+- Clean, modular code using Struct and Functions
 
-## How to Run
-1. Code ko kisi bhi C++ compiler me open karein
-2. Run karein
-3. Students ki tadad aur data enter karein
+### 🛠️ Technology Used
+- **Language:** C++ 
+- **Core Concepts:** Variables, Loops, Arrays, Struct, Functions
+- **OOP Concepts:** Encapsulation, Inheritance, Abstraction, Polymorphism
+- **File Handling:** fstream, ifstream, ofstream, tellg(), tellp(), seekg()
+
+### 🚀 How to Run
+1. Clone the repository
+2. Open in VS Code / CodeBlocks / Dev C++
+3. Compile and run main.cpp
+
+### 👩‍💻 Author
+**Name: Nimra Riqat**
+BSCS Student | C++ Developer
+YouTube: @kimtaiehyungbts
+GitHub: @nimrariqat62-pixel
+Future Goal: GKS Scholar for Masters in South Korea 🇰🇷
+
+---
+*Built with hard work during 2nd Year holidays.*
