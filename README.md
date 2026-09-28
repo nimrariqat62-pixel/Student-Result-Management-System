@@ -32,6 +32,11 @@ This repository contains a full **Student Result Management System** along with 
 * [File Pointer Positioning (seekg / tellg)](file_handling_seekg_cpp.cpp)
 
 ---
+## 🚀 How to Run
+
+1. Open the project in **CxxDroid** (Mobile) or **VS Code** (Laptop).
+2. Compile and run `main.cpp` using a C++ compiler.
+
 
 ## 🛠 Tech Stack
 - **Language:** C++
