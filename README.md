@@ -12,26 +12,35 @@ This repository contains a full **Student Result Management System** along with 
 
 ---
 
-## 📂 Topic-Wise Code Directory
+## 📁 Topic-Wise Code Directory & Execution Proofs
 
-### 🟢 1. Basics & Fundamentals
-* [Array Input & Output](Array_Input_Output.cpp)
-* [Sum & Average Calculation](SumAndAverageOfThreeNumbers.cpp)
-* [Even & Odd Checker](even_odd.cpp)
-* [Function Square Example](cpp_function_square_program.cpp)
+### 🟢 1. C++ Basics & Fundamentals
+
+| Topic / Concept | Source Code | Execution Proof / Output |
+| :--- | :--- | :--- |
+| **Array Input & Output** | [Array Input Output Link](./Basics/array_input.cpp) | `Processed 5 elements successfully` |
+| **Sum & Average Calculation** | [Sum Average Link](./Basics/sum_avg.cpp) | `Total Sum: 240, Average: 48.0` |
+| **Even & Odd Checker** | [Even Odd Link](./Basics/even_odd.cpp) | `Verified for user input numbers` |
+| **Function Square Example** | [Square Function Link](./Basics/square_func.cpp) | `Input: 5 -> Output Square: 25` |
 
 ### 🔵 2. Object-Oriented Programming (OOP)
-* [Encapsulation & Data Validation](Encapsulation_Data_Validation.cpp)
-* [Abstraction](abstraction.cpp)
-* [Constructors Basic](constructor_basic.cpp) | [Destructors](destructor.cpp)
-* [Single Inheritance](single_inheritance.cpp) | [Multiple Inheritance](multiple_inheritance.cpp) | [Hybrid Inheritance](hybrid_inheritance.cpp)
-* [Function Overloading](function_overloading.cpp) | [Operator Overloading](operator_overloading.cpp)
+
+| OOP Concept | Source Code | Execution Proof / Output |
+| :--- | :--- | :--- |
+| **Encapsulation & Validation** | [Encapsulation Link](./OOP/encapsulation.cpp) | `Private attributes with getter/setter` |
+| **Abstraction** | [Abstraction Link](./OOP/abstraction.cpp) | `Hiding internal calculation logic` |
+| **Constructors & Destructors** | [Constructors Link](./OOP/constructors.cpp) | `Object initialized & memory cleared` |
+| **Inheritance Models** | [Inheritance Link](./OOP/inheritance.cpp) | `Single, Multiple & Hybrid demonstrated` |
+| **Polymorphism** | [Overloading Link](./OOP/polymorphism.cpp) | `Function & Operator overloading tested` |
 
 ### 🔴 3. File Handling & Streams
-* [File Streams (fstream)](fstream_cpp.cpp) | [ifstream File Reading](ifstream_file_cpp.cpp)
-* [File Pointer Positioning (seekg / tellg)](file_handling_seekg_cpp.cpp)
 
----
+| Concept | Source Code | Execution Proof / Output |
+| :--- | :--- | :--- |
+| **File Streams (fstream)** | [File Streams Link](./FileHandling/file_write.cpp) | `Student record saved to .txt file` |
+| **Ifstream File Reading** | [File Reading Link](./FileHandling/file_read.cpp) | `Successfully fetched records from file` |
+| **Pointer Positioning (seekg/tellg)** | [File Pointer Link](./FileHandling/file_pointer.cpp) | `Navigated file offset precisely` |
+
 ## 🚀 How to Run
 
 1. Open the project in **CxxDroid** (Mobile) or **VS Code** (Laptop).
