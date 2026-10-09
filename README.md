@@ -18,28 +18,33 @@ This repository contains a full **Student Result Management System** along with 
 
 | Topic / Concept | Source Code | Execution Proof / Output |
 | :--- | :--- | :--- |
-| **Array Input & Output** | [Array Input Output Link](./Basics/array_input.cpp) | `Processed 5 elements successfully` |
-| **Sum & Average Calculation** | [Sum Average Link](./Basics/sum_avg.cpp) | `Total Sum: 240, Average: 48.0` |
-| **Even & Odd Checker** | [Even Odd Link](./Basics/even_odd.cpp) | `Verified for user input numbers` |
-| **Function Square Example** | [Square Function Link](./Basics/square_func.cpp) | `Input: 5 -> Output Square: 25` |
+| **Array Input & Output** | [Array_Input_Output.cpp](./Array_Input_Output.cpp) | `Processed 5 elements successfully` |
+| **Sum & Average Calculation** | [SumAndAverageOfThreeNumbers.cpp](./SumAndAverageOfThreeNumbers.cpp) | `Total Sum: 240, Average: 48.0` |
+| **Even & Odd Checker** | [even odd cpp.](./even%20odd%20cpp.) | `Verified for user input numbers` |
+| **Function Square Example** | [cpp _ function square program](./cpp%20_%20function%20square%20program) | `Input: 5 -> Output Square: 25` |
 
 ### 🔵 2. Object-Oriented Programming (OOP)
 
 | OOP Concept | Source Code | Execution Proof / Output |
 | :--- | :--- | :--- |
-| **Encapsulation & Validation** | [Encapsulation Link](./OOP/encapsulation.cpp) | `Private attributes with getter/setter` |
-| **Abstraction** | [Abstraction Link](./OOP/abstraction.cpp) | `Hiding internal calculation logic` |
-| **Constructors & Destructors** | [Constructors Link](./OOP/constructors.cpp) | `Object initialized & memory cleared` |
-| **Inheritance Models** | [Inheritance Link](./OOP/inheritance.cpp) | `Single, Multiple & Hybrid demonstrated` |
-| **Polymorphism** | [Overloading Link](./OOP/polymorphism.cpp) | `Function & Operator overloading tested` |
+| **Encapsulation & Validation** | [Encapsulation_Data_Validation.cpp](./Encapsulation_Data_Validation.cpp) | `Private attributes with getter/setter` |
+| **Abstraction** | [abstraction.cpp](./abstraction.cpp) | `Hiding internal calculation logic` |
+| **Constructors Basic** | [constructor_basic.cpp](./constructor_basic.cpp) | `Object initialized properly` |
+| **Destructors** | [destructor.cpp](./destructor.cpp) | `Memory cleared successfully` |
+| **Single Inheritance** | [single_inheritance.cpp](./single_inheritance.cpp) | `Base and derived class demonstrated` |
+| **Multiple Inheritance** | [multiple_inheritance.cpp](./multiple_inheritance.cpp) | `Multiple base classes inherited` |
+| **Hybrid Inheritance** | [hybrid_inheritance.cpp](./hybrid_inheritance.cpp) | `Combined inheritance model tested` |
+| **Function Overloading** | [function_overloading.cpp](./function_overloading.cpp) | `Multiple functions with same name` |
+| **Operator Overloading** | [operator_overloading.cpp](./operator_overloading.cpp) | `Custom operators overloaded` |
 
 ### 🔴 3. File Handling & Streams
 
 | Concept | Source Code | Execution Proof / Output |
 | :--- | :--- | :--- |
-| **File Streams (fstream)** | [File Streams Link](./FileHandling/file_write.cpp) | `Student record saved to .txt file` |
-| **Ifstream File Reading** | [File Reading Link](./FileHandling/file_read.cpp) | `Successfully fetched records from file` |
-| **Pointer Positioning (seekg/tellg)** | [File Pointer Link](./FileHandling/file_pointer.cpp) | `Navigated file offset precisely` |
+| **File Streams (fstream)** | [fstream _ cpp](./fstream%20_%20cpp) | `Student record saved to .txt file` |
+| **Ifstream File Reading** | [ofstream file cpp](./ofstream%20file%20cpp) | `Successfully fetched records from file` |
+| **Pointer Positioning (seekg/tellg)** | [file handling _ tellg cpp](./file%20handling%20_%20tellg%20cpp) | `Navigated file offset precisely` |
+
 
 ## 🚀 How to Run
 
