@@ -22,6 +22,8 @@ This repository contains a full **Student Result Management System** along with 
 | **Sum & Average Calculation** | [SumAndAverageOfThreeNumbers.cpp](./SumAndAverageOfThreeNumbers.cpp) | `Enter three numbers: 10 20 30`<br>`Sum = 60, Average = 20` |
 | **Even & Odd Checker** | [even odd cpp.](./even%20odd%20cpp.) | `Enter an integer: 7`<br>`7 is an Odd number.` |
 | **Function Square Example** | [cpp _ function square program](./cpp%20_%20function%20square%20program) | `Enter number: 6`<br>`Square of 6 is: 36` |
+| **Average Calculator** | [average_calculator.cpp](./average_calculator.cpp) | `enter two numbers :12`<br>`13`<br>` average = : 12.5` |
+
 
 ---
 
