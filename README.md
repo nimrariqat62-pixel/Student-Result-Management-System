@@ -23,7 +23,12 @@ This repository contains a full **Student Result Management System** along with 
 | **Even & Odd Checker** | [even odd cpp.](./even%20odd%20cpp.) | `Enter an integer: 7`<br>`7 is an Odd number.` |
 | **Function Square Example** | [cpp _ function square program](./cpp%20_%20function%20square%20program) | `Enter number: 6`<br>`Square of 6 is: 36` |
 | **Average Calculator** | [average_calculator.cpp](./average_calculator.cpp) | `enter two numbers :12`<br>`13`<br>` average = : 12.5` |
-| **Sum Two Double Numbers** | [sum_two_double_numbers.cpp](./sum_two_double_numbers.cpp) | `enter a number a : 14.5<br>enter a number b: 3.1<br>sum 17.6<br><br>[Program finished]` |
+| **Sum Two Double Numbers** | [sum_two_double_numbers.cpp](./sum_two_double_numbers.cpp) | `enter a number a : 14.5`  
+`enter a number b: 3.1`  
+`sum 17.6`  
+
+`[Program finished]` |
+
 
 
 
