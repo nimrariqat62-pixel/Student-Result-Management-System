@@ -26,6 +26,8 @@ This repository contains a full **Student Result Management System** along with 
 | **Sum Two Double Numbers** | [sum_two_double_numbers.cpp](./sum_two_double_numbers.cpp) | `enter a number a : 14.5, enter a number b: 3.1, sum: 17.6 [Program finished]` |
 | **Arithmetic Operations** | [arithmetic_operations.cpp](./arithmetic_operations.cpp) | `enter a first  number : 7`<br>`enter a 2nd number :  2`<br>`addition 9`<br>`subraction 5`<br>`multiplication 14`<br>`division 3`<br>`remainder 1` |
 | **Leap Year Checker** | [LeapYear.cpp](./LeapYear.cpp) | `enter a year : 2024`<br>` this is a leap year`<br>`---`<br>`enter a year : 2025`<br>` this is not leap year` |
+| **Size of int Data Type** | [sizeof_int.cpp](./sizeof_int.cpp) | `size of int = 4 bytes`<br>`[Program finished]` |
+
 
 
 
