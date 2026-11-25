@@ -28,7 +28,7 @@ This repository contains a full **Student Result Management System** along with 
 | **Leap Year Checker** | [LeapYear.cpp](./LeapYear.cpp) | `enter a year : 2024`<br>` this is a leap year`<br>`---`<br>`enter a year : 2025`<br>` this is not leap year` |
 | **Size of int Data Type** | [sizeof_int.cpp](./sizeof_int.cpp) | `size of int = 4 bytes`<br>`[Program finished]` |
 | **Days to Years, Months, and Days** | [DaysToYearsMonthsConversion.cpp](./DaysToYearsMonthsConversion.cpp) | `total number of days : 800`<br>` years : 2`<br>` months : 2`<br>` remainingdays : 70`<br>`  days : 10`<br>`[Program finished]` |
-| **Manipulators** | [manipulators_left_right.cpp](./manipulators_left_right.cpp) | `ali _______`<br>`__ sharjeel`<br>` usman _____`<br>`[Program finished]` |
+
 
 
 
