@@ -29,6 +29,7 @@ This repository contains a full **Student Result Management System** along with 
 | **Size of int Data Type** | [sizeof_int.cpp](./sizeof_int.cpp) | `size of int = 4 bytes`<br>`[Program finished]` |
 | **Days to Years, Months, and Days** | [DaysToYearsMonthsConversion.cpp](./DaysToYearsMonthsConversion.cpp) | `total number of days : 800`<br>` years : 2`<br>` months : 2`<br>` remainingdays : 70`<br>`  days : 10`<br>`[Program finished]` |
 | **Manipulators (`left`, `right`, `setw`, `setfill`)** | [manipulators_left_right.cpp](./manipulators_left_right.cpp) | `ali _______`<br>`__ sharjeel`<br>` usman _____`<br>`[Program finished]` |
+
 | **Manipulators (`left`, `right`, `setw`, `setfill`)** | [students_savingstable.cpp](./students_savingstable.cpp) | `ali :      18          500`<br>` usman:     19          800`<br>` sharjeel : 23          1000`<br>`[Program finished]` |
 
 
