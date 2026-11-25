@@ -1,0 +1,12 @@
+#include <iostream>
+#include <iomanip>
+#include <string>
+using namespace std;
+
+int main() {
+    cout << left << setw(11) << setfill('_') << "ali" << endl;
+    cout << right << setw(11) << setfill('_') << " sharjeel" << endl;
+    cout << left << setw(11) << setfill('_') << " usman" << endl;
+
+    return 0;
+}
