@@ -30,8 +30,8 @@ This repository contains a full **Student Result Management System** along with 
 | **Days to Years, Months, and Days** | [DaysToYearsMonthsConversion.cpp](./DaysToYearsMonthsConversion.cpp) | `total number of days : 800`<br>` years : 2`<br>` months : 2`<br>` remainingdays : 70`<br>`  days : 10`<br>`[Program finished]` |
 | **Manipulators (`left`, `right`, `setw`, `setfill`)** | [students_savingstable.cpp](./students_savingstable.cpp) | `ali :      18          500`<br>` usman:     19          800`<br>` sharjeel : 23          1000`<br>`[Program finished]` |
 | **Explicit Type Conversion (`static_cast`)** | [explicit_typeconversion_staticcast.cpp](./explicit_typeconversion_staticcast.cpp) | `original celciustemp : 37`<br>` converted celciustemp : 37`<br><br>`[Program finished]` |
-
 | **ASCII Code Conversion (`static_cast`)** | [ascii_code_conservation.cpp](./ascii_code_conservation.cpp) | `original character : A`<br>` ascii code : 65`<br><br>`[Program finished]` |
+
 
 
 
