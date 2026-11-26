@@ -32,6 +32,7 @@ This repository contains a full **Student Result Management System** along with 
 | **Explicit Type Conversion (`static_cast`)** | [explicit_typeconversion_staticcast.cpp](./explicit_typeconversion_staticcast.cpp) | `original celciustemp : 37`<br>` converted celciustemp : 37`<br><br>`[Program finished]` |
 | **ASCII Code Conversion (`static_cast`)** | [ascii_code_conservation.cpp](./ascii_code_conservation.cpp) | `original character : A`<br>` ascii code : 65`<br><br>`[Program finished]` |
 | **Vowel Checker (`char` / Conditionals)** | [vowel_checker.cpp](./vowel_checker.cpp) | `enter a character : a`<br>` this is vowel :`<br>`[Program finished]`<br><br>`enter a character : n`<br>` not a vowel :`<br>`[Program finished]` |
+| **Multiple Checker (`%` / Logical Operators)** | [number_multiplecheck.cpp](./number_multiplecheck.cpp) | `enter a number : 12`<br>` num is not multiple 5 or 9 :`<br>`[Program finished]`<br><br>`enter a number : 45`<br>` num is multiple 5 or 9 :`<br>`[Program finished]` |
 
 
 
